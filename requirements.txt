@@ -1,8 +1,0 @@
-pyttsx3
-SpeechRecognition
-wikipedia
-openai
-pywhatkit
-datetime
-
-pip install PyQt5 SpeechRecognition pyttsx3 pywhatkit pyaudio
